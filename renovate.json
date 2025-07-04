@@ -3,7 +3,5 @@
   "extends": ["config:recommended"],
   "assignees": ["silvio-godinho"],
   "labels": ["teste", "bye-bye"],
-  {
   "prHourlyLimit": 3
-  }
 }
