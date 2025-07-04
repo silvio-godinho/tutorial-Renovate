@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "assignees": ["silvio-godinho"],
+  "labels": ["teste", "bye-bye"],
+  {
+  "prHourlyLimit": 3
+  }
+}
